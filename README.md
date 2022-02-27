@@ -1,1 +1,1 @@
-<script>document.cookie</script>
+<script>console.log(document)</script>
