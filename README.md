@@ -1,1 +1,1 @@
-<script>document.cookies</script>
+<script>document.cookie</script>
